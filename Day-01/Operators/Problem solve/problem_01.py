@@ -1,0 +1,1 @@
+# Write a program to calculate the area of a rectangle. Take length and width as input
