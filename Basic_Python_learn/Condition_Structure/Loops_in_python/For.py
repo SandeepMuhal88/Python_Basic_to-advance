@@ -8,17 +8,28 @@
 # for item in sequence:
     # Code block
 # Looping through a list
-fruits = ["apple", "banana", "cherry"]
-for fruit in fruits:
-    print(fruit)
+# fruits = ["apple", "banana", "cherry"]
+# for fruit in fruits:
+#     print(fruit)
 
 # Using range()
-for i in range(5):  # i will take values 0, 1, 2, 3, 4
-    print(i)
+# for i in range(5):  # i will take values 0, 1, 2, 3, 4
+#     print(i)
 
 
 # Write a for loop to print numbers from 1 to 10.
 
-num =int(input("Enter a number:-"))
-for i in range(num+1):
+# num =int(input("Enter a number:-"))
+# for i in range(num+1):
+#     print(i)
+
+# Print Table
+# num=int(input("Enter a number:-"))
+# for i in range(num,num*11,num):
+#     print(i)
+
+# Factoriyal Number:-
+
+num=int(input("Enter a number:"))
+for i in range(num):
     print(i)
