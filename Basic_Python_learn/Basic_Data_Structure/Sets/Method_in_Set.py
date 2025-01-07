@@ -14,3 +14,13 @@ s2.add("Rajasthan")
 print(s2)
 s2.discard("Sandeep")   #That vaule is not in set then discard method not given error
 print(s2)
+
+
+s3={4,2,6,9,4}
+s4={4,2,6,9,4}
+print(s3.union(s4))
+print(s3.intersection(s4))
+print(s3.difference(s4))
+print(s4.difference(s3))
+print(s4.issubset(s3))
+print(s3.issubset(s4))
